@@ -1,0 +1,11 @@
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\netcoreapp2.1\MovieModelAssignment.deps.json
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\netcoreapp2.1\MovieModelAssignment.runtimeconfig.json
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\netcoreapp2.1\MovieModelAssignment.runtimeconfig.dev.json
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\netcoreapp2.1\MovieModelAssignment.dll
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\netcoreapp2.1\MovieModelAssignment.pdb
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.csprojAssemblyReference.cache
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.AssemblyInfoInputs.cache
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.AssemblyInfo.cs
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.dll
+C:\Users\aemasri\source\repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\netcoreapp2.1\MovieModelAssignment.pdb
